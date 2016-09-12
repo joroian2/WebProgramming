@@ -1,0 +1,189 @@
+
+img.lose{
+	float:left;
+	margin: 5px 5px 10px 12px;
+	padding-right: 25px;
+	
+}
+
+.differenth1{
+	font-family: Georgia;
+	font-size: 40px;
+	color: Red;
+	background-color:Yellow;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.toast{
+	background-color: red;
+	color: white;
+}
+
+img.apple{
+	float:left;
+	margin: 25px 30px 30px 30px;
+	padding-left: 55px;
+}
+
+
+
+
+bold2{
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+span.bold{
+	font-weight: bold;
+}
+
+span.bolder{
+	font-size: 19px;
+	font-weight: bolder;
+}
+
+first.table {
+	border-collapse: collapse;
+	width: 50%;
+	font-family: Georgia;
+	
+	}
+table{
+	border-collapse: collapse;
+	table-layout: fixed;
+	font-family: Georgia;
+}
+
+.caption{
+	display: table-caption;
+	color: #A4A400;
+	background-color: #FFFFFF;
+}
+
+tr.whiteheader{
+	background-color: #FFFFFF;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #A4A400;
+	width: 50%;
+	font-family: Georgia;
+}
+
+.blueheader1{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+.blueheader2{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+.blueheader3{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+.blueheader4{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+.blueheader5{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+
+.nutrient{
+	background-color: #003366;
+	border-collapse: collapse;
+	border: 2px solid white;
+	color: #FFFFFF;
+}
+
+
+
+.regularcells{
+	background-color: #CC9933;
+	color: #FFFFFF;
+	border: 2px solid white;
+}
+
+
+.aligncenter{
+	text-align: center;
+}
+
+a.nounderline {
+	text-decoration: none;
+}
+
+
+
+.NavLinks
+{
+	background-color: #FFFF99;
+	text-decoration:none;
+	border-collapse: collapse;
+
+}
+
+.NavLinks2{
+	
+	background-color: #003366;
+	border-collapse: collapse;
+}
+
+p.regular
+{
+	font-size: 14px;
+}
+
+h1{
+	background-color: white;
+	text-align: center;
+	color: #A4A400;	
+	font-family: georgia;
+}
+
+h1.differenth1{
+	background-color:white;
+	text-align: center;
+	color: #6343f3;
+	
+}
+
+
+h2 
+{
+	background-color: white;
+	text-align: center;
+	color: #A4A400;
+}
+
+h3
+{
+	background-color: white;
+	text-align: center;
+	color: #A4A400;
+}
+
+
+body {
+    background-color: #FFCC00;
+	font-family: Georgia;
+}
+
+
+ul > li {
+    margin-left: 10px;
+}
+
